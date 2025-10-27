@@ -7,6 +7,12 @@ A modern, AI-powered Gmail client that combines the power of Google's Gemini AI 
 ![React](https://img.shields.io/badge/React-19.1-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.120-green)
 
+## Working Vid!
+
+https://github.com/user-attachments/assets/b24016af-80bc-412a-8ce9-6aac37317a9b
+
+
+
 ## 🌟 Features
 
 ### 🤖 AI-Powered Chat Interface
